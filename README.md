@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ML projects
-- 📫 How to reach me : dhanushraj@gmail.com
+- 📫 How to reach me : dhanush17raj@gmail.com
 
 <!---
 Dhanush17raj/Dhanush17raj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
