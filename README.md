@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhanush17raj
-- 👀 I’m interested in ML
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in ML and AI
+- 🌱 I’m currently learning DL
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me : dhanush17raj@gmail.com
 
